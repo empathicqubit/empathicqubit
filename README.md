@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning how to mod Skyrim VR using SKSE and Papyrus; German.
 - 📫 How to reach me:
     - Email: empathicqubit (at) entan (dot) gl
-    - [Mastodon](https://dizl.de/@empathiqcubit): @empathicqubit (at) dizl.de
+    - [Mastodon](https://dizl.de/@empathicqubit): @empathicqubit (at) dizl.de
 
 <!---
 empathicqubit/empathicqubit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
