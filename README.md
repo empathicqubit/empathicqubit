@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @empathicqubit
-- 👀 I’m interested in Quantum Computing and Virtual Reality Gaming
-- 🌱 I’m currently learning how to write a serial debugger for TI-83 Plus; German.
+- 👀 I’m interested in Retro Computing and Virtual Reality Gaming
+- 🌱 I’m currently hacking on my DEFCON badge; learning German.
 - 📫 How to reach me:
     - Email: empathicqubit (at) entan (dot) gl
     - On Mastodon: @empathicqubit (at) dizl.de
